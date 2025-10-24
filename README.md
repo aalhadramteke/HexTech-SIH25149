@@ -1,4 +1,4 @@
-Loan Tracking App
+Loan Tracking App :-
 A web application built with JavaScript and CSS, designed to facilitate loan tracking and management for beneficiaries and banks.
 
 Key Features :-
